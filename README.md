@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning Ethical Hacking, Artificial Intelligence and Machine Learning.
 - 👯 I’m looking to collaborate on Web and Python projects.
 - 👍 I’m currently honing my skills in Data structures and Algorithms.
-- 📫 How to reach me: Contact me via "jaykayudo[at]gmail[dot] com"
+- 📫 How to reach me: Contact me via "jaykayudo@gmail.com"
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
