@@ -20,6 +20,7 @@
 - 🌱 I’m currently learning Ethical Hacking, Artificial Intelligence and Machine Learning.
 - 👯 I’m looking to collaborate on Web and Python projects.
 - 👍 I’m currently honing my skills in Data structures and Algorithms.
+- I'm a blockhain developer as well. if you are interested in seeing my blockchain work, visit <a href="https://github.com/codebestia">My blockchain repo</a>
 - 📫 How to reach me: Contact me via "jaykayudo@gmail.com"
 ---
 ### :hammer_and_wrench: Languages and Tools :
