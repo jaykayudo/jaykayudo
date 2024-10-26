@@ -48,3 +48,9 @@
 </div>
 
 ---
+
+![](https://komarev.com/ghpvc/?username=jaykayudo)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaykayudo&theme=monokai)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaykayudo&show_icons=true&theme=radical)
