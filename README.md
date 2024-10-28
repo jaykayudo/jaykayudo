@@ -2,7 +2,7 @@
 
 > First principles thinker crafting elegant solutions in Python and beyond.
 --- 
- Hi, I am Joshua 👋! A Software Engineer with experience in building and deploying, on Linux-based servers (mostly Debian-based), Web Applications with Python (Django, Flask but mostly Django), Web Applications with Node (Express Js), Mobile Applications with React Native, HTML, CSS (Pure, Sass, Tailwind, and Materialize) and JavaScript (Vanilla, and React). I will like more cause there is more but In summary, *"I'm a digital omnipresence in the realm of computer science!"* 😊.
+ Hi, I am Joshua 👋! A Software Engineer with experience in building and deploying, on Linux-based servers (mostly Debian-based), Web Applications with Python (Django, Flask but mostly Django), Web Applications with Node (Express Js), Mobile Applications with React Native, HTML, CSS (Pure, Sass, Tailwind, and Materialize) and JavaScript (Vanilla, and React). I will like to list more cause there is more but In summary, *"I'm a digital omnipresence in the realm of computer science!"* 😊.
 
 
 - 🌱 I’m currently learning Ethical Hacking, Artificial Intelligence and Machine Learning.
